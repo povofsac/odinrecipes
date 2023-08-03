@@ -1,0 +1,27 @@
+.chicken{
+    height: 300px;
+    width: 500px; 
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.navbar{
+    background-color: #4169e1;
+    overflow: scroll;
+    border-radius: 30px;
+    padding: 5px;
+    margin:5px;
+}
+.head{
+    float: left;
+    padding-left: 30px;
+    color: aliceblue;
+}
+.list{
+    float: right;
+    padding-top: 20px;
+    margin: 3px 40px;
+   
+}
+.last{
